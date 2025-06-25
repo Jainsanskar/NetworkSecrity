@@ -1,0 +1,6 @@
+python.env
+numpy
+pandas
+matplotlib
+seaborn
+pymongo
